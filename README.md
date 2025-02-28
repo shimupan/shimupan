@@ -2,20 +2,20 @@
 
 <pre>
 <samp>shimupan@dev:~$</samp> <kbd>whoami</kbd>
-<samp>🙆‍♂️ Shimu Pan</samp>
+🙆‍♂️ Shimu Pan
 
   
 <samp>shimupan@dev:~$</samp> <kbd>ls -1 /usr/Experience</kbd>
-<samp>🐶 SWE Intern @ <a href="https://github.com/datadog">Datadog</a> | Team TBD          | Summer '25</samp>
+🐶 SWE Intern @ <a href="https://github.com/datadog">Datadog</a> | Team TBD          | Summer '25
 
   
 <samp>shimupan@dev:~$</samp> <kbd>ls -1 /usr/OpenSource</kbd>
-<samp>🎮 Dev        @ <a href="https://github.com/shimupan/lineupx">LineupX</a> | Backend Developer | Fall   '25</samp>
-<samp>🐼 Dev        @ YACS    | Docker Team       | Spring '24</samp>
+🎮 Dev        @ <a href="https://github.com/shimupan/lineupx">LineupX</a> | Backend Developer | Fall   '25
+🐼 Dev        @ YACS    | Docker Team       | Spring '24
 
   
 <samp>shimupan@dev:~$</samp> <kbd>ls -1 /usr/Education</kbd>
-<samp>🏫 CS         @ RPI                           Spring '26</samp>
+🏫 CS         @ RPI                           Spring '26
 
 
 <samp>shimupan@dev:~$</samp> <kbd>cat /etc/social/connect.txt</kbd>
